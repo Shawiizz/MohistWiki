@@ -7,7 +7,7 @@
   - 1.12.2
     - [mohist.yml](config/mohist-yml-1.12.2.md)
   - 1.16.5
-    - [mohist.yml]()
+    - [mohist.yml](config/mohist-yml-1.16.5.md)
 - Developer
   - [Build](developer/build.md)
   - [Dependencies](developer/dependencies.md)
