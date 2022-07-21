@@ -9,6 +9,7 @@
   - 1.16.5
     - [mohist.yml](config/mohist-yml-1.16.5.md)
 - Developer
+  - [Website API](developer/website-api.md)
   - Build
     - [1.12.2](developer/build-1.12.2.md)
     - [1.16.5](developer/build-1.16.5.md)
